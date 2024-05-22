@@ -1,0 +1,67 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "game_3b_level.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "C:/Users/derpy/Desktop/cmpm120_git/s7assignment/PlatformImprovement/assets/platformer-level-1.tmj": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 1.1984953703703705,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 496.0386286817961,
+                "y": 225.69966199903422
+            }
+        },
+        "C:/Users/derpy/Desktop/cmpm120_git/s7assignment/PlatformImprovement/assets/platformer-level-1.tmj#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "game_3b_level.tmx": {
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1080,
+                "y": 179.5
+            }
+        },
+        "game_3b_level.tmx#industrial_tilemap_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "game_3b_level.tmx#standard_pixel_platforms_packed": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/derpy/Desktop/cmpm120_git/Game3B/assets",
+    "last.imagePath": "C:/Users/derpy/Downloads/kenney_pixel-platformer-industrial-expansion/Tilemap",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 40,
+    "openFiles": [
+        "game_3b_level.tmx",
+        "C:/Users/derpy/Desktop/cmpm120_git/s7assignment/PlatformImprovement/assets/platformer-level-1.tmj"
+    ],
+    "project": "game_3b_draft.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "C:/Users/derpy/Desktop/cmpm120_git/s7assignment/PlatformImprovement/assets/platformer-level-1.tmj",
+        "game_3b_level.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
